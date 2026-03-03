@@ -1,4 +1,4 @@
-# Camus
+# Camus Programming Language
 **Intention-driven programming language for AIs and humans**
 
 > Misname an object adds to the misfortune of this world.
