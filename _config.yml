@@ -21,7 +21,10 @@
 title: Camus
 email: mail@stephanemourey.fr
 description: >- # this means to ignore newlines until "baseurl:"
-  Intention-driven programming language for AIs and humans
+> Misnaming things adds to the world’s suffering.  
+> _Mal nommer un objet, c’est ajouter au malheur de ce monde._
+>   
+> — Albert Camus, *Sur une philosophie de l’expression*, 1944.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://camus-project.github.io/Camus-Programming-Language" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
