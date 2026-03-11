@@ -90,4 +90,4 @@ View the complete example in `example.camus` in this repository.
 ## Join the Community
 
 Camus is openly developed — join the conversation and contribute on GitHub:
-https://github.com/taophp/Camus
+https://github.com/Camus-Project/Camus-Programming-Language
