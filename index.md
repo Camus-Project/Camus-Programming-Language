@@ -1,5 +1,5 @@
 ---
-title: Camus
+title: Camus Programming Language
 layout: home_with_blog
 ---
 
